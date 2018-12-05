@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "id": "0",
+      "name": "Meats"
+    },
+    {
+      "id": "1",
+      "name": "Fruits"
+    },
+    {
+      "id": "2",
+      "name": "Vegetables"
+    },
+    {
+      "id": "3",
+      "name": "Grains"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Chicken",
+      "categoryId": "0"
+    },
+    {
+      "name": "Beef",
+      "categoryId": "0"
+    },
+    {
+      "name": "Pork",
+      "categoryId": "0"
+    },
+    {
+      "name": "Apple",
+      "categoryId": "1"
+    },
+    {
+      "name": "Banana",
+      "categoryId": "1"
+    },
+    {
+      "name": "Celery",
+      "categoryId": "2"
+    },
+    {
+      "name": "Broccoli",
+      "categoryId": "2"
+    },
+    {
+      "name": "Carrots",
+      "categoryId": "2"
+    },
+    {
+      "name": "Bread",
+      "categoryId": "3"
+    },
+    {
+      "name": "Rice",
+      "categoryId": "3"
+    },
+    {
+      "name": "Pasta",
+      "categoryId": "3"
+    }
+  ]
+}

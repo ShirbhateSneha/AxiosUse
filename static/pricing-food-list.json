@@ -1,0 +1,29 @@
+{
+  "foods": [
+    {
+      "name": "Apple",
+      "boughtPrice": 1.99,
+      "soldPrice": 2.75
+    },
+    {
+      "name": "Chicken",
+      "boughtPrice": 4.99,
+      "soldPrice": 3.99
+    },
+    {
+      "name": "Celery",
+      "boughtPrice": 0.25,
+      "soldPrice": 0.75
+    },
+    {
+      "name": "Rice",
+      "boughtPrice": 0.1,
+      "soldPrice": 1.1
+    },
+    {
+      "name": "Banana",
+      "boughtPrice": 1.99,
+      "soldPrice": 1.89
+    }
+  ]
+}

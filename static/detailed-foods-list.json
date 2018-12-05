@@ -1,0 +1,29 @@
+{
+  "foods": [
+    {
+      "name": "Chicken",
+      "category": "Meat",
+      "price": 10.99
+    },
+    {
+      "name": "Broccoli",
+      "category": "Vegetables",
+      "price": 2.99
+    },
+    {
+      "name": "Banana",
+      "category": "Fruit",
+      "price": 0.99
+    },
+    {
+      "name": "Bread",
+      "category": "Grains",
+      "price": 11.99
+    },
+    {
+      "name": "Cheese",
+      "category": "Dairy",
+      "price": 4.99
+    }
+  ]
+}

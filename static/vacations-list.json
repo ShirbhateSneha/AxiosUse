@@ -1,0 +1,24 @@
+{
+  "vacations": [
+    {
+      "name": "CN Tower",
+      "description": "Great view from the top!"
+    },
+    {
+      "name": "Niagara Falls",
+      "description": "Casino, Skylon Tower, and the falls!"
+    },
+    {
+      "name": "Halifax",
+      "description": "Fresh ocean seafood and boat rides!"
+    },
+    {
+      "name": "Red Lake",
+      "description": "Only mines around here"
+    },
+    {
+      "name": "Montreal",
+      "description": "Great metro and music festivals"
+    }
+  ]
+}

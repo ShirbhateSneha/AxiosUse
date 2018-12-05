@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "name": "Meats",
+      "items": ["Chicken", "Beef", "Pork"]
+    },
+    {
+      "name": "Grains",
+      "items": ["Bread", "Pasta", "Rice"]
+    },
+    {
+      "name": "Fruits",
+      "items": ["Apple", "Banana", "Orange"]
+    }
+  ]
+}

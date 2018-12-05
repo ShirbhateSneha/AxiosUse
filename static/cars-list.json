@@ -1,0 +1,22 @@
+{
+  "carCategories": [
+    {
+      "categoryName": "Sedans",
+      "vehicles": ["Toyota Corolla", "Honda Civic", "Audi A4"]
+    },
+    {
+      "categoryName": "SUVS",
+      "vehicles": ["Toyota RAV 4", "BMW X5", "Nissan Rogue", "Jeep"]
+    },
+    {
+      "categoryName": "Coupes",
+      "vehicles": [
+        "Audi S5",
+        "BMW M2",
+        "Nissan 370Z",
+        "Subaru BRZ",
+        "Mercedes SLS"
+      ]
+    }
+  ]
+}

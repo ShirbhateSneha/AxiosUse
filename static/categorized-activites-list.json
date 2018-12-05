@@ -1,0 +1,24 @@
+{
+  "activities": [
+    {
+      "name": "Communication management",
+      "items": ["Daily phone", "Email", "Internet"]
+    },
+    {
+      "name": "Transportation",
+      "items": ["Driving oneself", "Public transportation", "Arranging rides"]
+    },
+    {
+      "name": "Meal preparation",
+      "items": ["Meal planning", "Cooking", "Food Storage"]
+    },
+    {
+      "name": "Housework",
+      "items": ["Clean up", " Doing laundry", "Washing dishes", "vacuuming"]
+    },
+    {
+      "name": "Health management",
+      "items": ["Exercise", "Yoga", "Managing medications"]
+    }
+  ]
+}
